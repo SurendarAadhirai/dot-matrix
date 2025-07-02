@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h2>Welcome to the shopping page</h2>
+    <h2>Welcome to the Tshirt shopping page</h2>
   </div>
 </template>
 
