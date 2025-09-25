@@ -9,6 +9,7 @@
     </div>
   </div> -->
   <div class="home-container">
+    <h1>Happy breathing...</h1>
   <div class="carousel-wrapper">
     <Carousel
       :items-to-show="1"
